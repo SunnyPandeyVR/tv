@@ -73,7 +73,7 @@ var Module = {
 	assetDownloadProgress: {}, // Track how many bytes of each needed asset has been downloaded so far.
 
 	UE4_indexedDBName: 'UE4_assetDatabase_TV', // this should be an ascii ID string without special characters that is unique to the project that is being packaged
-	UE4_indexedDBVersion: 202302070918, // Bump this number to invalidate existing IDB storages in browsers.
+	UE4_indexedDBVersion: 202302070937, // Bump this number to invalidate existing IDB storages in browsers.
 };
 
 
